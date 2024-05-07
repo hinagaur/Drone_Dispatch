@@ -21,20 +21,4 @@ drop down menus (Add Customer, Add Drone, Add Product, etc.) to handle the store
 as well has handle all the contraints on the frontend rather than sending them back to MySQL to prevent any unnecessary requests being made
 to the server. We used MySQL Connector to establish the connection between the MySQL Workbench server and the application.
 
-iv. Explanation of how work was distributed among the team members
-Prarthana: 
-5 Stored Procedures 
-Testing/Debugging
 
-Hina: 
-5 Stored Procedures 
-Testing/Debugging
-
-Anagha:
-5 Stored Procedures 
-Testing/Debugging
-
-Bengy:
-Views 
-Testing/Debugging
-Readme
