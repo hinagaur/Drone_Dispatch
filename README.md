@@ -20,7 +20,9 @@ pip install datetime
 #### Instructions to run the app
 
 To launch the app open the powershell terminal and execute
-```python phase4.py```
+```
+python phase4.py
+```
 
 #### Brief explanation of what technologies were used 
 
